@@ -1,6 +1,6 @@
 :root {
     --text-color: #050300;
-    --card-front-color: #050306;
+    --card-front-color: #faf9fb;
     --card-back-color: #df82ba;
 }
 
@@ -16,7 +16,7 @@ body {
 
 .cartao {
     margin: 1rem 1rem;
-    background-color: rgb(92, 186, 186);
+    background-color: rgb(100, 25, 174);
     height: 20rem;
     flex-grow: 1;
     flex-basis: calc(33% -6rem);
@@ -75,7 +75,7 @@ body {
 }
 
 footer {
-    background-color: black;
+    background-color: rgb(228, 124, 124);
     color: white;
     position: fixed;
     bottom: 0;
